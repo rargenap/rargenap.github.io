@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rargenap.github.io/sitemap.html.gz
+Sitemap: https://rargenap.github.io/app/sitemap.html.gz
+Sitemap: https://rargenap.github.io/assets/sitemap.html.gz
+Sitemap: https://rargenap.github.io/css/sitemap.html.gz
+Sitemap: https://rargenap.github.io/data/sitemap.html.gz
+Sitemap: https://rargenap.github.io/includes/sitemap.html.gz
+Sitemap: https://rargenap.github.io/item/sitemap.html.gz
+Sitemap: https://rargenap.github.io/src/sitemap.html.gz
